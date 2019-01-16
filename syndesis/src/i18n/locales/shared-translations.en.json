@@ -4,6 +4,7 @@
     "modules": {
       "connections": {},
       "dashboard": {},
+      "data": {},
       "integrations": {}
     },
     "shared": {
